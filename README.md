@@ -14,9 +14,9 @@ I use STM32 MCUs, Texas Instruments (TI), Raspberry Pi, Arduino, ESP32, and more
 
 ## Electronic Circuits
 I design a wide range of electronic circuits, including multiplexers, decoders, filters, amplifiers, and others.
-[<img src='Images/LazoCorriente.png' height='70'>]()
-[<img src='Images/FuenteCorriente.png' height='70'>]()
-[<img src='Images/Filtro.png' height='70'>]()
+[<img src='Images/LazoCorriente.jpg' height='70'>]()
+[<img src='Images/FuenteCorriente.jpg' height='70'>]()
+[<img src='Images/Filtro.jpg' height='70'>]()
 
 ## STACK
 <table>
