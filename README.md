@@ -14,9 +14,10 @@ I use STM32 MCUs, Texas Instruments (TI), Raspberry Pi, Arduino, ESP32, and more
 
 ## Electronic Circuits
 I design a wide range of electronic circuits, including multiplexers, decoders, filters, amplifiers, and others.
-[<img src='Images/LazoCorriente.jpg' height='70'>]()
-[<img src='Images/FuenteCorriente.jpg' height='70'>]()
-[<img src='Images/Filtro.jpg' height='70'>]()
+
+[<img src='Images/LazoCorriente.jpg' height='200'>]()
+[<img src='Images/FuenteCorriente.jpg' height='200'>]()
+[<img src='Images/Filtro.jpg' height='200'>]()
 
 ## STACK
 <table>
@@ -40,16 +41,16 @@ I design a wide range of electronic circuits, including multiplexers, decoders, 
 <tr>
     <td>Tools</td>
     <td>
-        <a href="https://git-scm.org" title="git">
+        </a>
             <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg' alt='git icon' height='32'>
         </a>
-        <a href="https://github.com" title="GitHub">
+        </a>
             <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg' alt='GitHub icon' height='32'>
         </a>
-        <a href="Images/GDB_Logo.png" title="GDB">
+        </a>
             <img src='Images/GDB_Logo.png' alt='Chrome Icon' height='32'>
         </a>
-        <a href="Images/GCC_Logo.png" title="GCC">
+        </a>
             <img src='Images/GCC_Logo.png' alt='Firefox icon' height='32'>
         </a>
     </td>
